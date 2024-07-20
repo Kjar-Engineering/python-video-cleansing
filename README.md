@@ -23,9 +23,6 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -34,10 +31,10 @@
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Python Video Cleansing</h3>
 
   <p align="center">
-    project_description
+    Project to clean personal videos using python libraries
     <br />
     <a href="https://github.com/Kjar-Engineering/python-video-cleansing"><strong>Explore the docs »</strong></a>
     <br />
@@ -85,7 +82,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Here's a blank template.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -195,7 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Jonathan Kjar - kjarengineering@gmail.com
 
 Project Link: [https://github.com/Kjar-Engineering/python-video-cleansing](https://github.com/Kjar-Engineering/python-video-cleansing)
 
@@ -226,8 +223,6 @@ Project Link: [https://github.com/Kjar-Engineering/python-video-cleansing](https
 [issues-url]: https://github.com/Kjar-Engineering/python-video-cleansing/issues
 [license-shield]: https://img.shields.io/github/license/Kjar-Engineering/python-video-cleansing.svg?style=for-the-badge
 [license-url]: https://github.com/Kjar-Engineering/python-video-cleansing/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
