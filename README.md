@@ -19,10 +19,15 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
+![GitHub repo size][size-shield]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+<!-- ![GitHub Tag](https://img.shields.io/github/v/tag/Kjar-Engineering/python-video-cleansing?style=for-the-badge)
+![GitHub Release](https://img.shields.io/github/v/release/Kjar-Engineering/python-video-cleansing?style=for-the-badge) -->
+
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -222,6 +227,7 @@ Project Link: [https://github.com/Kjar-Engineering/python-video-cleansing](https
 [issues-url]: https://github.com/Kjar-Engineering/python-video-cleansing/issues
 [license-shield]: https://img.shields.io/github/license/Kjar-Engineering/python-video-cleansing.svg?style=for-the-badge
 [license-url]: https://github.com/Kjar-Engineering/python-video-cleansing/blob/master/LICENSE.txt
+[size-shield]: https://img.shields.io/github/repo-size/Kjar-Engineering/python-video-cleansing?style=for-the-badge&label=REPO%20SIZE
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
