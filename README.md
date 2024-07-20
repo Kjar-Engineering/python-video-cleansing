@@ -111,10 +111,9 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* MoviePy
   ```sh
-  npm install npm@latest -g
+  pip install moviepy
   ```
 
 ### Installation
@@ -124,9 +123,9 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/Kjar-Engineering/python-video-cleansing.git
    ```
-3. Install NPM packages
+3. Install From PyPI
    ```sh
-   npm install
+   pip install moviepy
    ```
 4. Enter your API in `config.js`
    ```js
