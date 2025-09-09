@@ -44,8 +44,6 @@
     <a href="https://github.com/Kjar-Engineering/python-video-cleansing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Kjar-Engineering/python-video-cleansing">View Demo</a>
-    ·
     <a href="https://github.com/Kjar-Engineering/python-video-cleansing/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     ·
     <a href="https://github.com/Kjar-Engineering/python-video-cleansing/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
